@@ -460,14 +460,14 @@
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 100vh;
+  min-height: 1142px;
 }
 
 .u-section-4 .u-list-1 {
   min-height: 764px;
   grid-template-rows: auto;
-  margin-top: 171px;
-  margin-bottom: 0;
+  margin-top: 60px;
+  margin-bottom: 60px;
   height: auto;
 }
 
@@ -917,8 +917,6 @@
 
   .u-section-4 .u-list-1 {
     min-height: 2916px;
-    margin-top: 60px;
-    margin-bottom: 60px;
   }
 
   .u-section-4 .u-text-1 {
