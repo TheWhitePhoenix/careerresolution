@@ -34216,6 +34216,7 @@ a.u-link.u-text-hover-grey-90:hover {
   text-transform: uppercase;
   font-size: 0.875rem;
   box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  animation-duration: 500ms;
   margin: -38px 0 18px auto;
   padding: 8px 19px 9px;
 }
@@ -34361,6 +34362,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-image-1 {
   width: 26px;
   height: 26px;
+  background-image: url("images/WhitePhoniexOnly.png");
+  background-position: 50% 50%;
   margin: -28px auto 50px 229px;
 }
 @media (max-width: 1199px) {
